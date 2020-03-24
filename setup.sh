@@ -6,3 +6,5 @@ git branch production
 git checkout production 
 
 git mv test_folder_two test_folder_four
+
+git commit -m "production branch created"
